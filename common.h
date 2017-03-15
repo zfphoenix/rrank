@@ -6,4 +6,6 @@
 //Global function definition
 int GetChildDirList(char *basedir_path, std::vector< std::string > dir_list);
 
+void test() {}
+
 #endif
